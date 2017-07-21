@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercise_2</string>
+
+    <string name="spinner_prompt">Select 1 in 4 color below</string>
+
+    <string-array name="array_color">
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+
+</resources>
